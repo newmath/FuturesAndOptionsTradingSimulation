@@ -1,0 +1,6 @@
+http://www.eia.gov/dnav/pet/xls/PET_PRI_GND_DCUS_NUS_W.xls
+http://www.eia.gov/dnav/pet/xls/PET_PNP_WIUP_DCU_NUS_W.xls
+http://www.eia.gov/dnav/pet/xls/PET_PNP_WPRODRB_DCU_NUS_W.xls
+http://www.eia.gov/dnav/pet/xls/PET_PNP_WPRODE_S1_W.xls
+http://www.eia.gov/dnav/pet/xls/PET_MOVE_WKLY_DC_NUS-Z00_MBBLPD_W.xls
+http://www.eia.gov/dnav/pet/xls/PET_MOVE_WIMPC_S1_W.xls

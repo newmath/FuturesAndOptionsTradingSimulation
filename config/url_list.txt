@@ -1,0 +1,8 @@
+ftp://ftp.cmegroup.com/pub/settle/stlint,CME  
+ftp://ftp.cmegroup.com/pub/settle/stleqt,CME  
+ftp://ftp.cmegroup.com/pub/settle/stlags,CBOT  
+ftp://ftp.cmegroup.com/pub/settle/stlcur,CME  
+ftp://ftp.cmegroup.com/pub/settle/stlalt,CME  
+ftp://ftp.cmegroup.com/pub/settle/stlcomex,COMEX   
+ftp://ftp.cmegroup.com/pub/settle/stlnymex,NYMEX 
+ftp://ftp.cmegroup.com/pub/settle/stlcpc,CLEARPORT  
