@@ -5,6 +5,4 @@ There are currently 2 related projects in this repository: scraping market data 
 
 Configuration files can be found in the config directory.  This includes files identifying contract terms as well as trading conventions such as option expiry dates and exchange holidays.
 
-The scripts folder contains all of the python code required.  I will soon put up directions on how to use the scripts and descriptions of each of the files.
-
-I apologize in advance that the code is poorly commented, if at all.  Most of this work was originally done in other languages, and this project was put together both to learn Python and to quickly evaluate a business opportunity.
+The scripts folder contains all of the python code required.  
